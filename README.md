@@ -1,4 +1,4 @@
-# Machine Learnig Project
+# Machine Learning Project
 In this repository, one will find all code and data that we have used for our machine learning project.
 In our project, we aimed to find out who are on Dutch Twitter by clustering users based on their biographies and searching for commonalities between them.
 Our methodology, results and evaluation can be found in our report: 'Report.pdf'
