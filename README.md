@@ -10,6 +10,6 @@ We make use of two data files:
 
 ## Code
 We separated the code in two files to retain an overview. The files are:
-- 'baseline.ipynb', where we carry out our baseline.
+- 'Baseline.ipynb', where we carry out our baseline.
 - 'MLP.ipynb', where we implement our k-means clusterer and plot the graphs.
 
